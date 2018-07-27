@@ -207,7 +207,7 @@ elif A == "14":
 	websploit()
 
 elif A == "15":
-	xerxec()
+	xerxes()
 
 elif A == "16":
 	routersploit()
