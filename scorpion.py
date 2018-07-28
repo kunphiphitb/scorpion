@@ -101,7 +101,7 @@ def redhawk():
 	os.system("apt-get upgrade -y && apt-get update -y")
 	os.system("apt-get install git -y")
 	os.system("apt-get install php -y")
-	os.system("git clone https://github.com/jota01234/Vbug.git")
+	os.system("git clone https://github.com/Tuhinshubhra/RED_HAWK.git")
 	os.system("cp -rf RED_HAWK ~ ")
 	os.system("rm -rf RED_HAWK")
 	
