@@ -14,14 +14,14 @@ os.system("clear")
 os.system("figlet scorpion")
 print "instsll all tools for hacking"
 print
-print "	[01]> HPAS1369       [02]> Pntddos"
-print "	[03]> Optiva         [04]> Metasploit"
-print "	[05]> Spammer-grab   [06]> A-Rat"
-print "	[07]> SQLMap         [08]> Vbug"
-print "	[09]> RedHawk        [10]> FB brute"
-print "	[11]> Black Hydra    [12]> Youtube-SubLike"
-print "	[13]> Weeman         [14]> WebSploit"
-print "	[15]> Xerxes         [16]> RouterSploit"
+print "	[01]> HPAS1369     [02]> Pntddos"
+print "	[03]> Optiva       [04]> Metasploit"
+print "	[05]> Spammer-grab [06]> A-Rat"
+print "	[07]> SQLMap       [08]> Vbug"
+print "	[09]> RedHawk      [10]> FB brute"
+print "	[11]> Black Hydra  [12]> Youtube-SubLike"
+print "	[13]> Weeman       [14]> WebSploit"
+print "	[15]> Xerxes       [16]> RouterSploit"
 print
 print "[99]> Credit Creator"
 print "[00]> Exit"
