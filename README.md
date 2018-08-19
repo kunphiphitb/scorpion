@@ -7,11 +7,11 @@ scorpion เป็นตัว installer toolkit
 
 # วิธีติดตั้ง
 
-   apt-get upgrade -y && apt-get update -y
-   apt-get install git -yapt-get install python2 -y
-   git clone https://github.com/DedSecCyber/scorpion.git
+### apt-get upgrade -y && apt-get update -y
+### apt-get install git -yapt-get install python2 -y
+### git clone https://github.com/DedSecCyber/scorpion.git
 
 # วิธีใช้ 
 
-   python2 scorpion.py
+### python2 scorpion.py
 
