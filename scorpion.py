@@ -266,12 +266,12 @@ elif A == "20":
 	dost()
 
 elif A == "99":
-	os.system("clear")
-	print"Creator : Zero Hacker TH"
-	print"YouTube : https://www.youtube.com/channel/UC0m4EAZ9_PMfygFXx9P25hg"
-	print"Blog    : http://dedseccyberteam.blogspot.com"
-	print"FB Group: https://m.facebook.com/groups/181290935835347"
-	timeout(8)
+    os.system("clear")
+    print"Creator : Zero Hacker TH"
+    print"YouTube : https://www.youtube.com/channel/UC0m4EAZ9_PMfygFXx9P25hg"
+    print"Blog    : http://dedseccyberteam.blogspot.com"
+    print"FB Group: https://m.facebook.com/groups/181290935835347"
+    timeout(8)
     restart_program()
 
 
