@@ -4,7 +4,7 @@
 scorpion เป็นตัว installer toolkit 
 รวมเครื่องมือสำหรับแฮก
 
-<img src="https://github.com/DedSecCyber/scorpion/blob/master/_20180817_131122.jpg"/>
+<img src = " https://github.com/Dehttps://github.com/kunphiphitb/scorpion/blob/master/    _20180817_131122.jpg />
 
 # วิธีติดตั้ง (How to install)
 
